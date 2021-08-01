@@ -1,4 +1,5 @@
 ## Sharingapp/Shareit clone
+Refrence app that was used for making this is available at https://github.com/trebleshot/android
 
 ## Main features
 * Pause, resume and reconnect transfers
@@ -12,12 +13,7 @@
 * Speed-oriented: Minimal UI optimized for speed
 * Advanced features: Network change handling, choose network based on measured speed
 
-## Build from source
-Required tools;
-* Build tools: 28.0.3
-* Support library: 1.0.0 - androidx
-* Gradle plugin: 3.2.1
-* Android Studio: 3.2.1
+
 
 ## Screenshots
 [<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/shot_1.png" width=160>](fastlane/metadata/android/en-US/images/phoneScreenshots/shot_1.png)
