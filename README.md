@@ -45,15 +45,18 @@ Refrence app that was used for making this is available at https://github.com/tr
 <td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-45-38-377_com.google.android.apps.docs.jpg" width=160></td>
    </tr>
     <tr>
-<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-182547_Netflix.jpg" width=160></td>
-<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_2021-08-01-19-07-26-388_com.example.netflix.jpg" width=160></td>
-<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-184612_Netflix.jpg" width=160></td>
-<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_2021-08-01-19-08-01-815_com.example.netflix.jpg" width=160></td>
-<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_2021-08-01-19-09-06-824_com.example.netflix.jpg" width=160></td>
-<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_2021-08-01-19-16-09-924_com.example.netflix.jpg" width=160></td>
-<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_2021-08-01-19-16-21-448_com.google.android.gm.jpg" width=160>
-  </td>
-<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_2021-08-01-19-16-32-293_com.android.chrome.jpg" width=160></td>   
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-46-06-143_com.google.android.apps.docs.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-49-30-245_com.google.android.apps.docs.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-49-43-455_com.google.android.apps.docs.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-49-48-173_com.google.android.apps.docs.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-50-17-376_com.google.android.apps.docs.jpg" width=160></td>  
+  </tr>
+     <tr>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-46-06-143_com.google.android.apps.docs.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-49-30-245_com.google.android.apps.docs.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-49-43-455_com.google.android.apps.docs.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-49-48-173_com.google.android.apps.docs.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-50-17-376_com.google.android.apps.docs.jpg" width=160></td>  
   </tr>
   </table>
 
