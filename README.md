@@ -32,11 +32,21 @@ Refrence app that was used for making this is available at https://github.com/tr
 <td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-43-48-150_com.google.android.apps.docs.jpg" width=160></td>
 <td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-44-19-535_com.google.android.apps.docs.jpg" width=160></td>
   </tr>
+  <tr>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-41-20-232_com.google.android.apps.docs.jpg" width=160 ></td>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-41-53-706_com.google.android.apps.docs.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-41-57-916_com.google.android.apps.docs.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-42-26-646_com.google.android.apps.docs.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-42-31-446_com.google.android.apps.docs.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-42-57-364_com.google.android.apps.docs.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-43-48-150_com.google.android.apps.docs.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-44-19-535_com.google.android.apps.docs.jpg" width=160></td>
+  </tr>
   </table>
    <h3>In App Functions</h3>
   <table>
   <tr>
-<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-184650_Netflix.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-44-36-189_com.google.android.apps.docs.jpg" width=160></td>
 <td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-184659_Netflix.jpg" width=160></td>
 <td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-184708_Netflix.jpg" width=160></td>
 <td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-184720_Netflix.jpg" width=160></td>
