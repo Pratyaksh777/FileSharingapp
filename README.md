@@ -39,11 +39,13 @@ Refrence app that was used for making this is available at https://github.com/tr
   <table>
   <tr>
 <td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-44-36-189_com.google.android.apps.docs.jpg" width=160></td>
-<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-184659_Netflix.jpg" width=160></td>
-<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-184708_Netflix.jpg" width=160></td>
-<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-184720_Netflix.jpg" width=160></td>
-<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-184742_Netflix.jpg" width=160></td>
-<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-182547_Netflix.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-45-15-703_com.google.android.apps.docs.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-45-05-327_com.google.android.apps.docs.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-45-29-383_com.google.android.apps.docs.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-45-38-377_com.google.android.apps.docs.jpg" width=160></td>
+   </tr>
+    <tr>
+td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-182547_Netflix.jpg" width=160></td>
 <td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_2021-08-01-19-07-26-388_com.example.netflix.jpg" width=160></td>
 <td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-184612_Netflix.jpg" width=160></td>
 <td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_2021-08-01-19-08-01-815_com.example.netflix.jpg" width=160></td>
