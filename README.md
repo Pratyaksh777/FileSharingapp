@@ -1,7 +1,8 @@
-## Sharingapp/Shareit clone
+# Sharingapp/Shareit clone
 Refrence app that was used for making this is available at https://github.com/trebleshot/android
 
 ## Main features
+* Light & Dark mode compatibility
 * Pause, resume and reconnect transfers
 * Share large files
 * Share all kinds of content, video, photo, music and app libraries
@@ -12,16 +13,57 @@ Refrence app that was used for making this is available at https://github.com/tr
 * Light UI: Works faster than its rivals on low-end devices
 * Speed-oriented: Minimal UI optimized for speed
 * Advanced features: Network change handling, choose network based on measured speed
+* Share APK
+* Text stream to chat among users via bluetooth
+* QR Scanner
+* Notifications of the app
+* Sort by/Group by functions 
 
-
-
-## Screenshots
-[<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/shot_1.png" width=160>](fastlane/metadata/android/en-US/images/phoneScreenshots/shot_1.png)
-[<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/shot_2.png" width=160>](fastlane/metadata/android/en-US/images/phoneScreenshots/shot_2.png)
-[<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/shot_3.png" width=160>](fastlane/metadata/android/en-US/images/phoneScreenshots/shot_3.png)
-[<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/shot_4.png" width=160>](fastlane/metadata/android/en-US/images/phoneScreenshots/shot_4.png)
-[<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/shot_5.png" width=160>](fastlane/metadata/android/en-US/images/phoneScreenshots/shot_5.png)
-[<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/shot_6.png" width=160>](fastlane/metadata/android/en-US/images/phoneScreenshots/shot_6.png)
-[<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/shot_7.png" width=160>](fastlane/metadata/android/en-US/images/phoneScreenshots/shot_7.png)
-[<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/shot_8.png" width=160>](fastlane/metadata/android/en-US/images/phoneScreenshots/shot_8.png)
-[<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/shot_9.png" width=160>](fastlane/metadata/android/en-US/images/phoneScreenshots/shot_9.png)
+# Screenshots
+<h3>SIGN IN/UP</h3>
+<table>
+<tr>
+<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_2021-08-01-19-05-18-046_com.example.netflix.jpg" width=160 ></td>
+<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-182330_Netflix.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-182411_Netflix.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-182422_Netflix.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-182434_Netflix.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_2021-08-01-19-06-33-122_com.example.netflix.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-182538_Netflix.jpg" width=160></td>
+  </tr>
+  </table>
+  <h3>Payment Integration</h3>
+<table>
+<tr>
+<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-182547_Netflix.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_2021-08-01-19-07-26-388_com.example.netflix.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-184612_Netflix.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_2021-08-01-19-08-01-815_com.example.netflix.jpg" width=160></td>
+  </tr>
+  </table>
+   <h3>In App Functions</h3>
+  <table>
+  <tr>
+<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-184650_Netflix.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-184659_Netflix.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-184708_Netflix.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-184720_Netflix.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-184742_Netflix.jpg" width=160></td>
+  </tr>
+  </table>
+  <h3>Video Player</h3>
+  <table>
+  <tr>
+<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-184949_Netflix.jpg" width=320></td>
+  </tr>
+  </table>
+  <h3>Password Update & Reset</h3>
+  <table>
+  <tr>
+<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_2021-08-01-19-09-06-824_com.example.netflix.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_2021-08-01-19-16-09-924_com.example.netflix.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_2021-08-01-19-16-21-448_com.google.android.gm.jpg" width=160>
+  </td>
+<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_2021-08-01-19-16-32-293_com.android.chrome.jpg" width=160></td>
+  </tr>
+  </table>
