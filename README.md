@@ -20,16 +20,17 @@ Refrence app that was used for making this is available at https://github.com/tr
 * Sort by/Group by functions 
 
 # Screenshots
-<h3>SIGN IN/UP</h3>
+<h3>SET UP</h3>
 <table>
 <tr>
-<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_2021-08-01-19-05-18-046_com.example.netflix.jpg" width=160 ></td>
-<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-182330_Netflix.jpg" width=160></td>
-<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-182411_Netflix.jpg" width=160></td>
-<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-182422_Netflix.jpg" width=160></td>
-<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-182434_Netflix.jpg" width=160></td>
-<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_2021-08-01-19-06-33-122_com.example.netflix.jpg" width=160></td>
-<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-182538_Netflix.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-41-20-232_com.google.android.apps.docs.jpg" width=160 ></td>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-41-53-706_com.google.android.apps.docs.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-41-57-916_com.google.android.apps.docs.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-42-26-646_com.google.android.apps.docs.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-42-31-446_com.google.android.apps.docs.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-42-57-364_com.google.android.apps.docs.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-43-48-150_com.google.android.apps.docs.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-44-19-535_com.google.android.apps.docs.jpg" width=160></td>
   </tr>
   </table>
   <h3>Payment Integration</h3>
