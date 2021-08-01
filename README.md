@@ -33,15 +33,6 @@ Refrence app that was used for making this is available at https://github.com/tr
 <td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-44-19-535_com.google.android.apps.docs.jpg" width=160></td>
   </tr>
   </table>
-  <h3>Payment Integration</h3>
-<table>
-<tr>
-<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-182547_Netflix.jpg" width=160></td>
-<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_2021-08-01-19-07-26-388_com.example.netflix.jpg" width=160></td>
-<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-184612_Netflix.jpg" width=160></td>
-<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_2021-08-01-19-08-01-815_com.example.netflix.jpg" width=160></td>
-  </tr>
-  </table>
    <h3>In App Functions</h3>
   <table>
   <tr>
@@ -50,21 +41,15 @@ Refrence app that was used for making this is available at https://github.com/tr
 <td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-184708_Netflix.jpg" width=160></td>
 <td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-184720_Netflix.jpg" width=160></td>
 <td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-184742_Netflix.jpg" width=160></td>
-  </tr>
-  </table>
-  <h3>Video Player</h3>
-  <table>
-  <tr>
-<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-184949_Netflix.jpg" width=320></td>
-  </tr>
-  </table>
-  <h3>Password Update & Reset</h3>
-  <table>
-  <tr>
+<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-182547_Netflix.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_2021-08-01-19-07-26-388_com.example.netflix.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_20210801-184612_Netflix.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_2021-08-01-19-08-01-815_com.example.netflix.jpg" width=160></td>
 <td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_2021-08-01-19-09-06-824_com.example.netflix.jpg" width=160></td>
 <td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_2021-08-01-19-16-09-924_com.example.netflix.jpg" width=160></td>
 <td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_2021-08-01-19-16-21-448_com.google.android.gm.jpg" width=160>
   </td>
-<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_2021-08-01-19-16-32-293_com.android.chrome.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/VideoStreamingapp/blob/master/Screenshots/Screenshot_2021-08-01-19-16-32-293_com.android.chrome.jpg" width=160></td>   
   </tr>
   </table>
+
