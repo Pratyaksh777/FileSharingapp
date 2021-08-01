@@ -18,6 +18,7 @@ Refrence app that was used for making this is available at https://github.com/tr
 * QR Scanner
 * Notifications of the app
 * Sort by/Group by functions 
+* Settings/Preferences
 
 # Screenshots
 <h3>SET UP</h3>
