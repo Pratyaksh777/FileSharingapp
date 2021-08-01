@@ -52,11 +52,10 @@ Refrence app that was used for making this is available at https://github.com/tr
 <td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-50-17-376_com.google.android.apps.docs.jpg" width=160></td>  
   </tr>
      <tr>
-<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-46-06-143_com.google.android.apps.docs.jpg" width=160></td>
-<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-49-30-245_com.google.android.apps.docs.jpg" width=160></td>
-<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-49-43-455_com.google.android.apps.docs.jpg" width=160></td>
-<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-49-48-173_com.google.android.apps.docs.jpg" width=160></td>
-<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-50-17-376_com.google.android.apps.docs.jpg" width=160></td>  
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-50-22-603_com.google.android.apps.docs.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-50-29-411_com.google.android.apps.docs.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-51-45-505_com.google.android.apps.docs.jpg" width=160></td>
+<td><img src="https://github.com/Pratyaksh777/FileSharingapp/blob/master/Screenshots/Screenshot_2021-08-01-22-52-11-983_com.google.android.apps.docs.jpg" width=160></td>
   </tr>
   </table>
 
