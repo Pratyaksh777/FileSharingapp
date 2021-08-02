@@ -1,5 +1,6 @@
 # Sharingapp/Shareit clone
-Refrence app that was used for making this is available at https://github.com/trebleshot/android
+
+### Refrence app that was used for making this is available at https://github.com/trebleshot/android
 
 ## Main features
 * Light & Dark mode compatibility
